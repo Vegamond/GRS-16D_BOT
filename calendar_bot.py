@@ -61,16 +61,22 @@ MOODLE_LINKS = {
     # (могли бути скопійовані з ГРС-15Д чи іншого потоку). Розкоментувати
     # рядок і звірити id в адресному рядку Moodle, коли буде час перевірити.
     # "Туристичне країнознавство": "https://distance.kuk.edu.ua/course/view.php?id=8560",
+    "Іноземна мова": "https://distance.kuk.edu.ua/course/view.php?id=2742",
+    "Інформаційні технології, системи та мережі": "https://distance.kuk.edu.ua/course/view.php?id=3712",
     # "Готельна справа": "https://distance.kuk.edu.ua/course/view.php?id=8064",
-    # "Історія України": "https://distance.kuk.edu.ua/mod/attendance/view.php?id=175144",
+    "Історія України": "https://distance.kuk.edu.ua/course/view.php?id=3003",
     # "Ділова українська мова": "https://distance.kuk.edu.ua/mod/attendance/view.php?id=113738",
-    # "Культурні та креативні індустрії": "https://distance.kuk.edu.ua/course/view.php?id=2067",
+    "Культурні та креативні індустрії": "https://distance.kuk.edu.ua/course/view.php?id=2067",
+    "Культура гостинності": "https://distance.kuk.edu.ua/course/view.php?id=4067",
     # "Барна справа": "https://distance.kuk.edu.ua/course/view.php?id=5472",
     # "Ресторанна справа": "https://distance.kuk.edu.ua/course/view.php?id=8561",
     # "Емоційний інтелект": "https://distance.kuk.edu.ua/course/view.php?id=8549",
-    #"Готельне обслуговування: організація і технології": "",
+    "Академічна культура": "https://distance.kuk.edu.ua/course/view.php?id=8656",
+    "Готельне обслуговування: організація і технології": "https://distance.kuk.edu.ua/course/view.php?id=5473",
     #"Товарознавство": "",
     #"Ресторанне обслуговування: організація і технології": "",
+    "Ресторанна справа": "https://distance.kuk.edu.ua/course/view.php?id=8561",
+    "Соціальні комунікації": "https://distance.kuk.edu.ua/course/view.php?id=597",
 }
 
 
